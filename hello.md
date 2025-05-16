@@ -1,4 +1,4 @@
-## Hello
+## Hey everyone, welcome to my guide!
 
-- I'm adding this from
+- Yo, Johnny here!
   `feature-branch-1`
